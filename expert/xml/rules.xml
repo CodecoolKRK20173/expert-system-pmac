@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+    <Rule id="beer">
+        <Question>Do you like to party and drink lots of beer?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="magic">
+        <Question>Is your life full of magic?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="cats">
+        <Question>Are you a cat person?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+    
+    <Rule id="battle">
+        <Question>Do you enjoy battle rage?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="soldier">
+        <Question>Are you heavy armored kind of soldier?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="adventurer">
+        <Question>Do you like to wear leather armor on your voyages?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="scholar">
+        <Question>Do you enjoy scholar robes and way of knowledge?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="nature">
+        <Question>Do you like nature and balance?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="technical">
+        <Question>Do you enjoy engineering, machines and technical stuff?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="offensive">
+        <Question>Do you enjoy taking initiative and attacking as first?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="frontline">
+        <Question>Do you like to lead your team to vitory and run in front of them to face enemy?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="distract">
+        <Question>Do you prefer preparing traps and distract your enemy over open field fight?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="companions">
+        <Question>Do you count on your companions and magic minions?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="curses">
+        <Question>Do you use magic to weaken your enemies?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="magicAttack">
+        <Question>Are your attacks magical?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+    
+    <Rule id="magicDefence">
+        <Question>Is your armor strengthened with magic?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="supportive">
+        <Question>Do you enjoy to help your team on battlefield?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+
+    <Rule id="melee">
+        <Question>What kind of weapon you choose?</Question>
+        <Answer>
+            <Selection value="true">
+                <MultipleValue value="axe,dagger,mace,sword,greatsword,hammer"/>
+            </Selection>
+            <Selection value="false">
+                <MultipleValue value="staff,longbow,shortbow,rifle,pistol,scepter"/>
+            </Selection>
+        </Answer>
+    </Rule>
+</Rules>

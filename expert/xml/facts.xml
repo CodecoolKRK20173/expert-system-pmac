@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Facts>
+    <Fact id="GuardianHuman">
+        <Description value="Human Guardian"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+    
+   <Fact id="GuardianNorn">
+        <Description value="Norn Guardian"/>
+        <Evals>
+            <Eval id="beer">true</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="RevenantCharr">
+        <Description value="Charr Revenant"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">true</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="RevenantSylvari">
+        <Description value="Sylvari Revenant"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">true</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="WarriorNorn">
+        <Description value="Norn Warrior"/>
+        <Evals>
+            <Eval id="beer">true</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="WarriorCharr">
+        <Description value="Charr Warrior"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">true</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">true</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="EngineerCharr">
+        <Description value="Charr Engineer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">true</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="EngineerAsura">
+        <Description value="Asura Engineer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="RangerNorn">
+        <Description value="Norn Ranger"/>
+        <Evals>
+            <Eval id="beer">true</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="RangerSylvari">
+        <Description value="Sylvari Ranger"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">true</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="ThiefHuman">
+        <Description value="Human Thief"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="ThiefCharr">
+        <Description value="Charr Thief"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">false</Eval>
+            <Eval id="cats">true</Eval>
+            <Eval id="battle">true</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">true</Eval>
+            
+            <Eval id="scholar">false</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">false</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="ElementalistAsura">
+        <Description value="Asura Elementalist"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="ElementalistSylvari">
+        <Description value="Sylvari Elementalist"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">true</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">true</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">false</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">true</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="MesmerSylvari">
+        <Description value="Sylvari Mesmer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">true</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="MesmerHuman">
+        <Description value="Human Mesmer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">false</Eval>
+            <Eval id="distract">true</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">false</Eval>
+            <Eval id="magicDefence">true</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="NecromancerAsura">
+        <Description value="Asura Necromancer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">true</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">true</Eval>
+        </Evals>
+    </Fact>
+
+       <Fact id="NecromancerHuman">
+        <Description value="Human Necromancer"/>
+        <Evals>
+            <Eval id="beer">false</Eval>
+            <Eval id="magic">true</Eval>
+            <Eval id="cats">false</Eval>
+            <Eval id="battle">false</Eval>
+            <Eval id="soldier">false</Eval>
+            <Eval id="adventurer">false</Eval>
+            
+            <Eval id="scholar">true</Eval>
+            <Eval id="nature">false</Eval>
+            <Eval id="technical">false</Eval>
+            <Eval id="offensive">false</Eval>
+            <Eval id="frontline">true</Eval>
+            <Eval id="distract">false</Eval>
+            
+            <Eval id="companions">true</Eval>
+            <Eval id="curses">true</Eval>
+            <Eval id="magicAttack">true</Eval>
+            <Eval id="magicDefence">false</Eval>
+            <Eval id="supportive">false</Eval>
+            <Eval id="melee">false</Eval>
+        </Evals>
+    </Fact>
+</Facts>
